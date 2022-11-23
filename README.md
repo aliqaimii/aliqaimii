@@ -21,7 +21,7 @@
 <p align="center">
 <i><b>Languages Currently Learning:</b></i> 
   <br><br>
-  <img align="center" src="assets/languages/react-native-1.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/react-native-1.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/python.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/html-5.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/react.png" width="50px" />&nbsp;
