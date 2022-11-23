@@ -2,7 +2,7 @@
 
 <p>I am a passionate Software Engineer, experienced in frontend development. I like working on and exploring JavaScript technologies and frameworks.</p>
 
-- 🔭 I’m currently working on [WebHR](https://web.hr/)
+- 🔭 I’m currently working on [WebHR](https://web.hr/) and [HireSide](https://hireside.com/)
 
 - 🖥 I’m currently learning **NextJs**
 
