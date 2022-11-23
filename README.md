@@ -35,7 +35,7 @@
 <i><b>Tools known:</b></i> 
   <br><br>
    <img align="center" src="assets/tools/android-studio.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/vs-code.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/vs-code.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;
  <img align="center" src="assets/tools/xcode.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
