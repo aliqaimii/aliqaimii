@@ -34,13 +34,13 @@
 <p align="center">
 <i><b>Tools known:</b></i> 
   <br><br>
-  <img align="center" src="assets/tools/sublime.svg" width="50px" />&nbsp;
+   <img align="center" src="assets/tools/android-studio.svg" width="50px" />&nbsp;
+    <img align="center" src="assets/tools/xcode.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/vs-code.png" width="50px" />&nbsp;
   <img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/excel.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/powerpoint.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/git.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
 </p>
 
