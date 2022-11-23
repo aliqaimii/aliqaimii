@@ -45,9 +45,9 @@
   <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
 </p>
 
-<hr>
+<!-- <hr> -->
 
-<!-- <p align = "center"> -->
+<!-- <p align = "center">
 
 <i><b>Profiles:</b></i><br><br>
 <a href="mailto:falgunisarkar526@gmail.com">
@@ -78,7 +78,7 @@
 <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
 </a>
 
-</p>
+</p> -->
 
-<hr>
+<!-- <hr> -->
 <!-- can't stop myself from editing🤷... -->
