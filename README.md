@@ -39,7 +39,7 @@
   <br><br>
    <img align="center" src="assets/tools/android-studio.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/vs-code.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/word.svg" width="60px" />&nbsp;
+<!--   <img align="center" src="assets/tools/word.svg" width="60px" />&nbsp; -->
  <img align="center" src="assets/tools/xcode.svg" width="55px" />&nbsp;
   <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/github.svg" width="55px" />&nbsp;
