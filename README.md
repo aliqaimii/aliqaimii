@@ -1,6 +1,6 @@
-<h3>Hi 👋, I'm Ali Raza</h3>
+<h3>Hi, <img align="center" src="assets/gifs/Hi.gif" width="20px" />&nbsp;</h3>
 
-<p>I am a passionate Software Engineer, experienced in frontend development. I like working on and exploring JavaScript technologies and frameworks.</p>
+<p>I am a Software Engineer, experienced in frontend development. I like working on and exploring JavaScript technologies and frameworks.</p>
 
 - 🔭 I’m currently working on [WebHR](https://web.hr/) and [HireSide](https://hireside.com/)
 
@@ -19,11 +19,12 @@
 </p>
 
 <p align="center">
-<i><b>Languages Currently Learning:</b></i> 
+<i><b>Currently Working and Learning:</b></i> 
   <br><br>
   <img align="center" src="assets/languages/react-native-1.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/python.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/html-5.svg" width="50px" />&nbsp;
+    <img align="center" src="assets/languages/nodejs.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/react.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/css.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/javascript.svg" width="50px" />&nbsp;
@@ -36,10 +37,10 @@
   <br><br>
    <img align="center" src="assets/tools/android-studio.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/vs-code.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;
- <img align="center" src="assets/tools/xcode.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/word.svg" width="60px" />&nbsp;
+ <img align="center" src="assets/tools/xcode.svg" width="55px" />&nbsp;
   <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/github.svg" width="55px" />&nbsp;
 </p>
 
 <!-- <hr> -->
