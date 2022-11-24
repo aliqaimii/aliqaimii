@@ -1,8 +1,10 @@
 <h3>Hi, <img align="center" src="assets/gifs/Hi.gif" width="20px" />&nbsp;</h3>
 
-<p>I am a Software Engineer, experienced in frontend development. I like working on and exploring JavaScript technologies and frameworks.</p>
+<p>I am a Software Engineer, Expert in front-end development (mobile applications📱, web applications 💻), I'm also working on back-end RESTful API (node js).</p>
 
-- 🔭 I’m currently working on [WebHR](https://web.hr/) and [HireSide](https://hireside.com/)
+<p>🎉 Also have good experience in MERN stack development.</p>
+
+- 🔭 I’m currently contributing in [WebHR](https://web.hr/) and [HireSide](https://hireside.com/)
 
 - 🖥 I’m currently learning **NextJs**
 
