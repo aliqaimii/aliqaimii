@@ -46,16 +46,20 @@
 </p>
 
 <!-- <hr> -->
-
-<!-- <p align = "center">
+ <p align = "center">
 
 <i><b>Profiles:</b></i><br><br>
+  
+  <!--
 <a href="mailto:falgunisarkar526@gmail.com">
 <img align="center" alt="Falguni @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
 </a>
-<a href="https://www.linkedin.com/in/falgunisarkar">
+ -->
+<a href="https://www.linkedin.com/in/ali-raza-qaimkhani-04606b153/">
 <img align="center" alt="Falguni @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
 </a>
+  
+  <!--
 <a href="https://medium.com/@falgunisarkar">
 <img align="center" src="assets/handles/medium.svg" alt="Falguni @Medium Profile" width="50px">&nbsp;
 </a>
@@ -77,8 +81,8 @@
 <a href="https://dev.to/lostgirljourney">
 <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
 </a>
-
-</p> -->
+ -->
+</p>
 
 <!-- <hr> -->
 <!-- can't stop myself from editing🤷... -->
