@@ -45,16 +45,14 @@
   <img align="center" src="assets/tools/github.svg" width="55px" />&nbsp;
 </p>
 
-<!-- <hr> -->
+<hr>
  <p align = "center">
 
 <i><b>Profiles:</b></i><br><br>
   
-  <!--
-<a href="mailto:falgunisarkar526@gmail.com">
-<img align="center" alt="Falguni @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
+<a href="mailto:aliqaimii.me@gmail.com">
+<img align="center" alt="Ali @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
 </a>
- -->
 <a href="https://www.linkedin.com/in/ali-raza-qaimkhani-04606b153/">
 <img align="center" alt="Falguni @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
 </a>
