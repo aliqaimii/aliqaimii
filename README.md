@@ -70,10 +70,11 @@
 <a href="https://discord.gg/5bCcEMEk8e">
 <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
 </a>
-<a href="https://twitter.com/isshefalguni">
+-->
+<a href="https://twitter.com/aliqaimii">
 <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
 </a>
--->
+
 <a href="https://www.instagram.com/ali_qaimii/">
 <img align="center" alt="Ali @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
 </a>
