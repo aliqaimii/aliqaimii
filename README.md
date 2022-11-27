@@ -46,10 +46,10 @@
 </p>
 
 <hr>
- <p align = "center">
 
-<i><b>Profiles:</b></i><br><br>
-  
+<p align="center">
+<i><b>Profiles:</b></i> 
+  <br><br>
 <a href="mailto:aliqaimii.me@gmail.com">
 <img align="center" alt="Ali @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
 </a>
@@ -64,8 +64,4 @@
 <a href="https://www.instagram.com/ali_qaimii/">
 <img align="center" alt="Ali @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
 </a>
-
 </p>
-
-<!-- <hr> -->
-<!-- can't stop myself from editing🤷... -->
