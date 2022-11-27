@@ -73,9 +73,11 @@
 <a href="https://twitter.com/isshefalguni">
 <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
 </a>
-<a href="https://www.instagram.com/isshefalguni">
-<img align="center" alt="Falguni @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
+-->
+<a href="https://www.instagram.com/ali_qaimii/">
+<img align="center" alt="Ali @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
 </a>
+<!--
 <a href="https://dev.to/lostgirljourney">
 <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
 </a>
