@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently contributing in [WebHR](https://web.hr/) and [HireSide](https://hireside.com/)
 
-- 🖥 I’m currently learning **NextJs, NodeJs, Python**
+- 🖥 I’m currently learning **NextJs, NodeJs, Python, Typescript**
 
-- 💬 Ask me about **ReactJS, React Native**
+- 💬 Ask me about **ReactJS, React Native, Javascript**
 
 - 📫 How to reach me **aliqaimii.me@gmail.com**
 
