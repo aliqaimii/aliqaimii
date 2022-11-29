@@ -51,7 +51,7 @@
 <i><b>Profiles:</b></i> 
   <br><br>
 <a href="mailto:aliqaimii.me@gmail.com">
-<img align="center" alt="Ali @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
+<img align="center" alt="Ali @Mail" width="50px" src="assets/handles/gmail.png" />&nbsp;
 </a>
 <a href="https://www.linkedin.com/in/ali-raza-qaimkhani-04606b153/">
 <img align="center" alt="Falguni @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
