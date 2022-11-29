@@ -53,15 +53,17 @@
 <a href="mailto:aliqaimii.me@gmail.com">
 <img align="center" alt="Ali @Mail" width="50px" src="assets/handles/gmail.png" />&nbsp;
 </a>
+
 <a href="https://www.linkedin.com/in/ali-raza-qaimkhani-04606b153/">
-<img align="center" alt="Falguni @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
+<img align="center" alt="Ali @LinkedIN" width="50px" src="assets/handles/linkedin.png" />&nbsp;
 </a>
   
-<a href="https://twitter.com/aliqaimii">
-<img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
+  <a href="https://www.instagram.com/ali_qaimii/">
+<img align="center" alt="Ali @Instagram" width="50px" src="assets/handles/instagram.png" />&nbsp;
 </a>
 
-<a href="https://www.instagram.com/ali_qaimii/">
-<img align="center" alt="Ali @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
+<a href="https://twitter.com/aliqaimii">
+<img align="center" alt="Ali @Twitter" width="50px" src="assets/handles/twitter.png" />&nbsp;
 </a>
+
 </p>
