@@ -1,8 +1,9 @@
 <h3>Hi, <img align="center" src="assets/gifs/Hi.gif" width="20px" />&nbsp;</h3>
 
-<p>I am a Software Engineer, Expert in front-end development (mobile applications📱, web applications 💻), I'm also working on back-end RESTful API (node js).</p>
+<p>I am a Software Engineer, Expert in front-end development (mobile applications📱, web applications 💻), I'm also learning and working on back-end RESTful API (node js).</p>
 
 <p>🎉 Also have good experience in MERN stack development.</p>
+
 
 - 🔭 I’m currently contributing in [WebHR](https://web.hr/) and [HireSide](https://hireside.com/)
 
@@ -16,9 +17,6 @@
 
 <br/>
                
-<p align="left"> 
-                      
-</p>
 
 <p align="center">
 <i><b>Currently Working and Learning:</b></i> 
