@@ -65,3 +65,8 @@
 </a>
 
 </p>
+<hr>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/aliqaimii/count.svg" />
+</p>
