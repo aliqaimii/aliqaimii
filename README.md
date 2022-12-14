@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently contributing in [WebHR](https://web.hr/) and [HireSide](https://hireside.com/)
 
-- 🖥 I’m currently learning **NextJs, Blockchain, Typescript**
+- 🖥 I’m currently learning **NextJs, NodeJs, Typescript**
 
 - 💬 Ask me about **ReactJS, React Native, Javascript**
 
