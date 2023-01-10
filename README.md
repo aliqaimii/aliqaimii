@@ -70,5 +70,6 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliqaimii)](https://github.com/aliqaimii/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api/?username=aliqaimii)](https://github.com/aliqaimii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliqaimii&layout=compact)](https://github.com/aliqaimii/github-readme-stats)
 
