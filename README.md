@@ -15,7 +15,12 @@
 
 - 📫 How to reach me **aliqaimii.me@gmail.com**
 
+
+<div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aliqaimii)
+  
+  </div>
 
 <br/>
                
@@ -70,6 +75,10 @@
 
 <hr>
 
-[![github stats](https://github-readme-stats.vercel.app/api/?username=aliqaimii)](https://github.com/aliqaimii/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliqaimii&layout=compact)](https://github.com/aliqaimii/github-readme-stats)
+<div align="center">
 
+[![github stats](https://github-readme-stats.vercel.app/api/?username=aliqaimii)](https://github.com/aliqaimii/github-readme-stats)
+ <br><br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliqaimii&layout=compact)](https://github.com/aliqaimii/github-readme-stats)
+
+</div>
