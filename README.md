@@ -2,12 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=aliqaimii)
 
+<iframe src="https://embed.lottiefiles.com/animation/72765"></iframe>
+
 <p>I'm a Software Engineer, Expert in front-end development (mobile applications📱, web applications 💻), I am also working on back-end RESTful API (node js).</p>
 
 <p>🎉 Also have good experience in MERN stack development.</p>
 
 
-- 🔭 I’m currently contributing in [WebHR](https://web.hr/) and [HireSide](https://hireside.com/)
+<!-- - 🔭 I’m currently contributing in [WebHR](https://web.hr/) and [HireSide](https://hireside.com/) -->
 
 - 🖥 I’m currently learning **NextJs, NodeJs, Typescript**
 
