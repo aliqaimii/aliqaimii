@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aliqaimii)
 
-<iframe src="https://embed.lottiefiles.com/animation/72765"></iframe>
 
 <p>I'm a Software Engineer, Expert in front-end development (mobile applications📱, web applications 💻), I am also working on back-end RESTful API (node js).</p>
 
