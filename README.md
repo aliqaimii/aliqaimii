@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=aliqaimii)
 
 
-<p>I'm a Software Engineer, Expert in front-end development (mobile applications📱, web applications 💻), I am also working on back-end RESTful API (node js).</p>
+<p>I'm a Full Stack Developer, Expert in front-end development (mobile applications📱, web applications 💻), I am also working on back-end RESTful API (node js).</p>
 
 <p>🎉 Also have good experience in MERN stack development.</p>
 
