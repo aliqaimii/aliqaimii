@@ -60,7 +60,7 @@
 <img align="center" alt="Ali @Mail" width="50px" src="assets/handles/gmail.png" />&nbsp;
 </a>
 
-<a href="https://www.linkedin.com/in/ali-raza-qaimkhani-04606b153/">
+<a href="https://www.linkedin.com/in/aliqaimii">
 <img align="center" alt="Ali @LinkedIN" width="50px" src="assets/handles/linkedin.png" />&nbsp;
 </a>
   
